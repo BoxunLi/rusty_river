@@ -7,4 +7,5 @@ https://boxunli.github.io/rustyriver.html
 
 _______________________________________________________________
 HOW TO LAUNCH: Open project in Greenfoot (Copy files in images2 to images)
+
 AUTHOR: Boxun Li, Eileen Zhang, ALvin Li, Connor Wong
